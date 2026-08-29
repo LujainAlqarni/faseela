@@ -49,7 +49,6 @@ By combining education, storytelling, sustainability, and 3D game development, t
 - [Game Screenshots](#-game-screenshots)
 - [3D Assets](#-3d-assets)
 - [Challenges](#-challenges)
-- [Future Improvements](#-future-improvements)
 - [Team](#-team)
 
 ---
@@ -382,6 +381,9 @@ The rendered tree consists of:
 The game environment includes various 3D objects, such as:
 
 - Harith
+  <p align="center">
+  <img src="images/Harith.png" alt="Start Screen" width="500"/>
+  </p>
 - Uncle Saleem
 - Tree growth stages
 - Soil & Rocks
@@ -389,8 +391,7 @@ The game environment includes various 3D objects, such as:
 - Fork
 - Shovel
 - Watering can
-- Seeds
-- Fertilizer
+- Seeds & Fertilizer
 - Environmental objects
 
 The 3D models were created using Blender and integrated into Unity.
@@ -409,21 +410,7 @@ This issue was addressed by integrating a pre-built solution to correctly render
 
 ---
 
-## 🚀 Future Improvements
 
-Possible future enhancements include:
-
-- 🌦️ Dynamic weather conditions such as rain and drought
-- 🌡️ Temperature effects on plant growth
-- 🌱 More types of plants
-- 🪨 Different soil types
-- 💧 Advanced water management mechanics
-- 🌍 More complex environmental challenges
-- 🌿 Different care requirements for each plant
-- 📚 Additional educational levels
-- 🏆 More achievements and rewards
-
----
 
 ## 👥 Team
 
