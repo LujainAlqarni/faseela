@@ -402,11 +402,11 @@ The game environment includes various 3D objects, such as:
   </p>
 - Fork
   <p align="center">
-  <img src="images/Fork.png" alt="Fork" width="500" height="300"/>
+  <img src="images/Fork.png" alt="Fork" width="500" height="600"/>
   </p>
 - Shovel
   <p align="center">
-  <img src="images/Shovel.png" alt="Shovel" width="500" height="300"/>
+  <img src="images/Shovel.png" alt="Shovel" width="500" height="600"/>
   </p>
 - Watering can
   <p align="center">
