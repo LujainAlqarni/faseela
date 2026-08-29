@@ -382,17 +382,44 @@ The game environment includes various 3D objects, such as:
 
 - Harith
   <p align="center">
-  <img src="images/Harith.png" alt="Start Screen" width="500"/>
+  <img src="images/Harith.png" alt="Harith" width="500"/>
   </p>
 - Uncle Saleem
+  <p align="center">
+  <img src="images/Uncle-Saleem.png" alt="Uncle Saleem" width="500"/>
+  </p>
 - Tree growth stages
+  <p align="center">
+  <img src="images/Tree-growth-stages.png" alt="Tree growth stages" width="500"/>
+  </p>
 - Soil & Rocks
+  <p align="center">
+  <img src="images/Soil-Rocks.png" alt="Soil and Rocks" width="500"/>
+  </p>
 - Fence
+  <p align="center">
+  <img src="images/Fence.png" alt="Fence" width="500"/>
+  </p>
 - Fork
+  <p align="center">
+  <img src="images/Fork.png" alt="Fork" width="500"/>
+  </p>
 - Shovel
+  <p align="center">
+  <img src="images/Shovel.png" alt="Shovel" width="500"/>
+  </p>
 - Watering can
+  <p align="center">
+  <img src="images/Watering-can.png" alt="Watering can" width="500"/>
+  </p>
 - Seeds & Fertilizer
+  <p align="center">
+  <img src="images/Seeds-Fertilizer.png" alt="Seeds and Fertilizer" width="500"/>
+  </p>
 - Environmental objects
+  <p align="center">
+  <img src="images/Environmental-objects.png" alt="Environmental objects" width="500"/>
+  </p>
 
 The 3D models were created using Blender and integrated into Unity.
 
