@@ -1,7 +1,9 @@
 # 🌱 Faseela
-```markdown
-![Faseela Logo](images/logo.png)
-```
+
+<p align="center">
+  <img src="images/logo.png" alt="Faseela Logo" width="250"/>
+</p>
+
 <p align="center">
   <strong>An Interactive Educational Game for Environmental Awareness and Sustainable Practices</strong>
 </p>
@@ -351,27 +353,27 @@ The rendered tree consists of:
 
 ### Start Screen
 
-```markdown
-![Start Screen](images/start-screen.png)
-```
+<p align="center">
+  <img src="images/start-screen.png" alt="Start Screen" width="700"/>
+</p>
 
 ### Clearing the Land
 
-```markdown
-![Clearing the Land](images/clearing-land.png)
-```
+<p align="center">
+  <img src="images/clearing-land.png" alt="Clearing the Land" width="700"/>
+</p>
 
 ### Planting the Seeds
 
-```markdown
-![Planting the Seeds](images/planting-seeds.png)
-```
+<p align="center">
+  <img src="images/planting-seeds.png" alt="Planting the Seeds" width="700"/>
+</p>
 
 ### Watering the Tree
 
-```markdown
-![Watering the Tree](images/watering-tree.png)
-```
+<p align="center">
+  <img src="images/watering-tree.png" alt="Watering the Tree" width="700"/>
+</p>
 
 ---
 
